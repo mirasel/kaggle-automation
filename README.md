@@ -10,6 +10,6 @@ Before use it make sure your code is error free and your kernel session started 
 2. Copy the code from `kagge-automation.js` file and paste it into your browser console.
 3. Press `Enter`.
 
-That's it. your kernel will start running automatically. Now you left it as it is and do other works. 
+That's it. Your kernel will start running automatically and in every minute, it will click session status bar to keep the kernel active. Now you can left it as it is and do other works. 
 ##### If your console shows any error then copy and paste the code again. It will work fine. 
 Do not 'cancel run' your kernel. If you do , then it will click the save version option automatically and will try to save it until you cancel it and stops the program. Enjoy!!
